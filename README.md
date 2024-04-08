@@ -1,10 +1,11 @@
 
 <--!
-   # My name is seobom
+   # 나의 이름은 서봄입니다
    ----------------------
-   ## I was born in 1992
-   ### I am active  
-   #### My hoppy is playing comeputer game
+   ## 저는 1992년 7월4일에 충북에서 태어났습니다 
+   ### 저는 활발한 성격에 서로 협력하는것을 좋아합니다 잘부탁드립니다 
+   #### 나의 취미는 컴퓨터게임입니다
+   ##### 저의 mbti는 infp입니다
                                            -->
 
     
